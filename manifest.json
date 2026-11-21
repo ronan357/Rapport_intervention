@@ -1,0 +1,16 @@
+{
+  "name": "Rapports d'intervention",
+  "short_name": "Rapports",
+  "description": "Rapports d'intervention d'électricité, hors ligne, avec signature client et PDF.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    { "src": "icon.svg", "sizes": "192x192 512x512", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
