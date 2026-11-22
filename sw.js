@@ -1,5 +1,5 @@
-const V = 'rapports-v1';
-const ASSETS = ['./', './index.html', './manifest.json', './icon.svg', './lib/jspdf.umd.min.js'];
+const V = 'rapports-v2';
+const ASSETS = ['./', './index.html', './manifest.json', './icon.svg', './icon-192.png', './icon-512.png', './lib/jspdf.umd.min.js'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
